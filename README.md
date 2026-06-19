@@ -18,8 +18,8 @@ Experiencia en dashboards interactivos, análisis exploratorio y modelos predict
 
 ## 📌 Proyectos Destacados
 
-### 🛒 Supertienda - Análisis Comercial
 ## 🛒 Supertienda – Análisis comercial y rentabilidad
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/e78bb086-297d-4eee-9941-bff8e2cf73b4" />
 
 ### 🧠 Problema de negocio
 La empresa no cuenta con visibilidad clara sobre sus ventas, rentabilidad y comportamiento de clientes, dificultando la toma de decisiones estratégicas.
