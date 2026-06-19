@@ -79,6 +79,16 @@ Dashboard interactivo desarrollado en Power BI que permite:
 - 📁 Procesamiento de datos estructurados
 
 ---
+## ⚡ Qué hace diferente este proyecto
+
+- 📊 Enfoque en rentabilidad, no solo en volumen de ventas
+- 🧠 Traducción de datos en decisiones comerciales concretas
+- 📈 Dashboard diseñado para usuarios de negocio, no técnicos
+- 🔍 Identificación de productos que afectan negativamente la rentabilidad
+- ⚡ Automatización del análisis, reduciendo la necesidad de procesamiento manual
+  
+---
+  
 
 ### 🎯 Conclusión
 
@@ -147,6 +157,14 @@ Analizar el desempeño del equipo Miami Heat mediante datos históricos, identif
 - 📊 Jupyter Notebook
 - 📁 Procesamiento de datos estructurados
 
+---
+## ⚡ Qué hace diferente este proyecto
+
+- 🧠 No se limita a describir estadísticas deportivas, sino que busca explicar el rendimiento del equipo a partir de datos
+- 🤖 Integra análisis exploratorio con modelos de Machine Learning para anticipar resultados
+- 📊 Identifica variables clave que impactan directamente en el desempeño del equipo
+- 📈 Aplica lógica de negocio (deporte profesional) al análisis de datos
+- 🔍 Combina interpretación analítica con capacidad predictiva
 ---
 
 ### 🎯 Conclusión
