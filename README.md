@@ -12,13 +12,19 @@ Busco traducir grandes volúmenes de datos en insights claros, accionables y de 
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías y Herramientas
 
-- 📊 Power BI (DAX, Modelado de datos)
-- 🐍 Python (Pandas, Numpy, Matplotlib, Scikit-learn)
-- 🗄️ SQL
-- 🌐 HTML, CSS, JS (para visualizaciones)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+* 📊 **Visualización de Datos & BI (Power BI / Tableau):** Diseño de dashboards interactivos, modelado de datos (Star Schema) y desarrollo de lógica analítica avanzada (DAX / Campos calculados) adaptados a las necesidades del negocio.
+* 🐍 **Python (Data Science):** Análisis exploratorio de datos (EDA), manipulación de datasets con Pandas/Numpy, visualización estadística y modelado predictivo con Scikit-learn.
+* 🗄️ **SQL:** Manipulación, consulta y extracción eficiente de bases de datos relacionales.
+* 🌐 **Desarrollo Web aplicado a Datos:** Uso de HTML5, CSS3 y JavaScript para la creación de interfaces informativas y visualizaciones personalizadas a medida. 
+  *(Conocé mi estilo técnico y de maquetación en mi [Proyecto de Desarrollo Web](https://coderhouse2025-droid.github.io/PaginaWeb/))*
 ---
 
 ## 📌 Proyectos Destacados
