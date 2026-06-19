@@ -28,6 +28,7 @@ Experiencia en dashboards interactivos, análisis exploratorio y modelos predict
 ---
 
 ## 🏀 Heat Culture Decoded – Análisis de rendimiento y predicción
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/990233ca-a9a8-46e8-ab48-9c899b040f04" />
 
 ### 🧠 Problema de negocio
 Comprender qué factores influyen en el rendimiento del equipo y cómo se pueden anticipar resultados a partir de datos históricos.
