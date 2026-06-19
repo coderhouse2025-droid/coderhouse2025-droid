@@ -91,9 +91,8 @@ Este proyecto demuestra cómo el análisis de datos y el Machine Learning pueden
 
 ---
 
-👉 [Ver proyecto en GitHub](LINK)
+👉 https://github.com/coderhouse2025-droid/Miami-Heat
 
-👉 [Ver proyecto](LINK)
 
 ---
 
