@@ -1,15 +1,13 @@
 # 👋 Hola, soy Juan Manuel Orellana
 
-🎯 Analista de Datos | Inteligencia de Negocios | Power BI | Python
+### 🎯 Analista de Datos | Data Science | Business Intelligence | Python
 
-Soy analista de datos enfocado en transformar información en decisiones de negocio.
+Soy un analista de datos y apasionado de la ciencia de datos enfocado en transformar información compleja en decisiones estratégicas de negocio. Desarrollo modelos predictivos, análisis exploratorios avanzados (EDA) y dashboards interactivos, priorizando siempre la identificación de oportunidades de mejora en ventas, rentabilidad y optimización de procesos.
 
-Desarrollo dashboards interactivos, análisis exploratorio y modelos predictivos, con un enfoque en identificar oportunidades de mejora en ventas, rentabilidad y desempeño.
+Busco traducir grandes volúmenes de datos en insights claros, accionables y de alto valor para resolver problemas comerciales reales.
 
-Busco no solo analizar datos, sino traducirlos en insights claros y accionables que aporten valor real a la toma de decisiones.
-
-📊 Enfocado en análisis aplicado a negocio, no solo en lo técnico.
-📈 Interesado en roles de Data Analyst / BI donde pueda generar impacto con datos.
+* 🧠 **Enfoque Científico y de Negocio:** Aplicación de metodologías estadísticas y Machine Learning orientadas a resultados medibles.
+* 📈 **Objetivo:** Roles de Data Analyst / Data Scientist / BI donde pueda generar un impacto real a través del análisis avanzado de datos.
 
 
 ---
