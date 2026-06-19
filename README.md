@@ -19,9 +19,74 @@ Experiencia en dashboards interactivos, análisis exploratorio y modelos predict
 ## 📌 Proyectos Destacados
 
 ### 🛒 Supertienda - Análisis Comercial
-- Análisis de ventas, rentabilidad y clientes
-- Dashboard interactivo
-- Insights accionables
+## 🛒 Supertienda – Análisis comercial y rentabilidad
+
+### 🧠 Problema de negocio
+La empresa no cuenta con visibilidad clara sobre sus ventas, rentabilidad y comportamiento de clientes, dificultando la toma de decisiones estratégicas.
+
+---
+
+### 🎯 Objetivo
+Analizar el desempeño comercial de la supertienda para identificar oportunidades de mejora en ventas, optimizar la rentabilidad y entender el comportamiento de los clientes.
+
+---
+
+### ⚙️ Proceso de trabajo
+
+- 📥 Integración y comprensión del dataset de ventas
+- 🧹 Limpieza de datos (duplicados, valores faltantes, inconsistencias)
+- 🔄 Transformación y modelado de datos para análisis
+- 📊 Análisis exploratorio (EDA)
+- 📈 Construcción de dashboard interactivo en Power BI
+- 🧠 Generación de insights orientados a negocio
+
+---
+
+### 📊 Insights generados
+
+- 📉 Identificación de categorías con baja rentabilidad
+- 🛒 Detección de productos con alto volumen pero bajo margen
+- 📈 Análisis de tendencias de ventas por período
+- 👥 Segmentación de clientes según comportamiento de compra
+- 🌍 Identificación de zonas/regiones con mejor desempeño
+
+---
+
+### 📊 Visualización
+
+Dashboard interactivo desarrollado en Power BI que permite:
+
+- Filtrar por categorías, regiones y períodos
+- Analizar ventas, ganancias y volumen en tiempo real
+- Detectar rápidamente oportunidades de mejora
+
+---
+
+### 💼 Impacto del proyecto
+
+- 📊 Mejora en la visibilidad del desempeño comercial
+- ⚡ Reducción del tiempo de análisis mediante automatización
+- 🧠 Soporte a la toma de decisiones estratégicas
+- 📈 Identificación de oportunidades para aumentar la rentabilidad
+
+---
+
+### 🛠️ Tecnologías utilizadas
+
+- 📊 Power BI (DAX, modelado de datos)
+- 🐍 Python (Pandas, Numpy)
+- 🗄️ SQL (si aplica)
+- 📁 Procesamiento de datos estructurados
+
+---
+
+### 🎯 Conclusión
+
+El proyecto demuestra cómo el análisis de datos y la visualización interactiva pueden transformar información dispersa en decisiones estratégicas, permitiendo optimizar ventas y mejorar la rentabilidad del negocio.
+
+---
+
+👉 [Ver proyecto en GitHub](LINK)
 
 👉 [Ver proyecto](LINK)
 
