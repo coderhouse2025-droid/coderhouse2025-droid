@@ -86,9 +86,7 @@ El proyecto demuestra cómo el análisis de datos y la visualización interactiv
 
 ---
 
-👉 [Ver proyecto en GitHub](LINK)
-
-👉 [Ver proyecto](LINK)
+👉 https://github.com/coderhouse2025-droid/Supertienda
 
 ---
 
