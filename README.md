@@ -6,6 +6,7 @@ Profesional con más de 19 años de experiencia en análisis, auditoría, contro
 
 Actualmente enfocado en Data Analytics, Business Intelligence e Inteligencia Artificial, combinando experiencia de negocio con herramientas modernas para transformar datos en decisiones estratégicas.
 
+
 ### 🎯 Analista de Datos | Data Science | Business Intelligence | Python
 
 Soy un analista de datos y apasionado de la ciencia de datos enfocado en transformar información compleja en decisiones estratégicas de negocio. Desarrollo modelos predictivos, análisis exploratorios avanzados (EDA) y dashboards interactivos, priorizando siempre la identificación de oportunidades de mejora en ventas, rentabilidad y optimización de procesos.
