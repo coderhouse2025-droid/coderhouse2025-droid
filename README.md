@@ -18,10 +18,8 @@ Busco traducir grandes volúmenes de datos en insights claros, accionables y de 
 
 
 ---
-                                                             🌐 Portfolio Profesional
-                                                             
-
-                                                 https://coderhouse2025-droid.github.io/Portafolio-JM/
+🌐 Portfolio Profesional
+https://coderhouse2025-droid.github.io/Portafolio-JM/
 
 ---
 
