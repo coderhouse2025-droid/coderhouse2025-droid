@@ -6,5 +6,4 @@
 📫 Contacto
 
 💼 LinkedIn: linkedin.com/in/juan-manuel-orellana
-
 🌐 Portafolio: coderhouse2025-droid.github.io/Portafolio-JM
