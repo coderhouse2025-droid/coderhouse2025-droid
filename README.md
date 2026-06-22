@@ -1,4 +1,5 @@
-<img width="1536" height="2703" alt="Portafolio_de_Juan_Manuel_Orellana (1)" src="https://github.com/user-attachments/assets/9d756e4f-e1e4-4efc-aecd-85c9db1bc465" />
+<img width="1536" height="2752" alt="Perfil_de_Juan_Manuel_Orellana(ULT)" src="https://github.com/user-attachments/assets/65543292-7970-465a-a158-efd4b2906797" />
+
 
 
 ---
