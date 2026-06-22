@@ -3,14 +3,6 @@
 
 ---
 
-## 📈 Qué puedo aportar
-
-✔ Análisis de datos orientado a negocio  
-✔ Visualización clara para toma de decisiones  
-✔ Automatización de reportes  
-
----
-
 ## 📫 Contacto
 
 - LinkedIn: https://linkedin.com/in/juan-manuel-orellana
