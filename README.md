@@ -3,7 +3,8 @@
 
 ---
 
-## 📫 Contacto
+📫 Contacto
 
-- LinkedIn: https://linkedin.com/in/juan-manuel-orellana
-- Portfolio: https://coderhouse2025-droid.github.io/Portafolio-JM/
+
+💼 LinkedIn: linkedin.com/in/juan-manuel-orellana
+🌐 Portafolio: coderhouse2025-droid.github.io/Portafolio-JM
