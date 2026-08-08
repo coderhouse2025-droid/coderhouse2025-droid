@@ -6,3 +6,7 @@
 
 - 💼 LinkedIn: [linkedin.com/in/juan-manuel-orellana](https://linkedin.com/in/juan-manuel-orellana)
 - 🌐 Portafolio: [https://coderhouse2025-droid.github.io/professional-portfolio-website/)
+---
+## 📄 Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE) — libre para uso como referencia, aprendizaje o desarrollo de proyectos propios.
